@@ -1,0 +1,29 @@
+.contenedor {
+    display:flex ;
+    margin:5% ;
+    width: 80%;   
+}
+.izquierda {
+    width: 45%;
+    background-color: rgb(243, 210, 195);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius:20%;
+    text-align: unset;
+    padding-inline-start: 2%;
+}
+img{
+    border-radius: 50%;
+    width:350px;
+    height: 350px;
+}
+.descripcion {
+    align-content:center;
+}
+.derecha{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 5%;
+    padding: 1%;  
+}     
+h1, h3, #profesion {
+    color: rgb(221, 158, 129);
+}
